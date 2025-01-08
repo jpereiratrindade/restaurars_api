@@ -1,7 +1,7 @@
 # Restaurars API
 
 ## Descrição
-O projeto **Restaurars API** é uma aplicação para gerenciamento e exposição de dados relacionados ao projeto RestauraSolos. 
+O projeto **Restaurars API** é uma aplicação para gerenciamento e exposição de dados relacionados ao projeto Restaura Rural RS. 
 Foi desenvolvida em C e utiliza bibliotecas como `pq`, `microhttpd` e `cjson` para conectar-se ao banco de dados PostgreSQL 
 e expor APIs HTTP.
 
