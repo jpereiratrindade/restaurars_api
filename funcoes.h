@@ -23,11 +23,11 @@
 extern volatile bool running;
 
 // Configuração do banco de dados PostgreSQL
-#define DB_HOST "localhost"
+#define DB_HOST "host"
 #define DB_PORT "5432"
-#define DB_NAME "devdb"
-#define DB_USER "jpereiratrindade"
-#define DB_PASS "adraude2607"
+#define DB_NAME "database"
+#define DB_USER "user"
+#define DB_PASS "password"
 
 // Declaração do ponteiro de conexão com o banco de dados
 extern PGconn *conn;
